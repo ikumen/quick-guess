@@ -1,0 +1,11 @@
+.Drawing-canvas {
+  padding: 30px 50px 10px;
+  overflow: auto;
+}
+
+.Drawing-canvas-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

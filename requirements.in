@@ -1,0 +1,8 @@
+aiofiles
+jinja2
+python-dotenv
+pymongo
+pydantic
+requests
+starlette
+uvicorn[standard]

@@ -1,0 +1,18 @@
+
+.App-microphone {
+  height: 48px;
+  border:none;
+  padding: 4px 20px 2px;
+  border-radius: 4px;
+}
+
+.App-microphone-enabled {
+  background-color: #9EEBCF;
+}
+
+.fade-out {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
+
