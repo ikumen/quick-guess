@@ -79,7 +79,7 @@ To run the server:
     MONGO_DB_NAME=admin
 
     DEEPGRAM_API_SECRET=
-    DEEPGRAM_PROJECT=
+    DEEPGRAM_API_PROJECT_KEYS_URL=
     ```
 - assuming you've already set up Python virtual env, install dependencies and start the server
     ```bash
