@@ -1,6 +1,6 @@
 # Quick Guess
 
-A guessing game similiar to pictionary, where you do the guessing while your browser does the drawing and listening. Your browser draws the picture using data from [Google's Quick Draw!](https://github.com/googlecreativelab/quickdraw-dataset) data set, and evaluates your guesses using [Azure's Speech to Text service](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/).
+A guessing game similiar to pictionary, where you do the guessing while your browser does the drawing and listening. Your browser draws the picture using data from [Google's Quick Draw!](https://github.com/googlecreativelab/quickdraw-dataset) data set, and evaluates your guesses with the help of [Deepgram's Speech-to-text API](https://deepgram.com/) service.
 
 
 <img src="/docs/screen0.png" width="150"> <img src="/docs/screen1.png" width="150"> <img src="/docs/screen2.png" width="150"> <img src="/docs/screen3.png" width="150"> <img src="/docs/screen4.png" width="150"> <img src="/docs/screen5.png" width="150">
